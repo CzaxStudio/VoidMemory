@@ -1,11 +1,6 @@
-# Keep C# as main language
 
-# Convert others to "Other"
 *.sh linguist-language=Text
 *.ico linguist-language=Text
 *.md linguist-language=Text
 *.json linguist-language=Text
 
-# Optional: ignore build folders
-bin/* linguist-vendored
-obj/* linguist-vendored
