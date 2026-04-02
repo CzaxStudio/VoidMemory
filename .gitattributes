@@ -1,3 +1,10 @@
+
 *.exe linguist-detectable=false
 *.dll linguist-detectable=false
+
+
+bin/* linguist-vendored
+obj/* linguist-vendored
+
+
 *.ico linguist-detectable=false
