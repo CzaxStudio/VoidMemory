@@ -1,6 +1,4 @@
-
-*.md linguist-language=Text
-*.txt linguist-language=Text
+*.txt linguist-detectable=true
 *.txt linguist-language=Text
 
 
