@@ -1,0 +1,3 @@
+*.exe linguist-detectable=false
+*.dll linguist-detectable=false
+*.ico linguist-detectable=false
