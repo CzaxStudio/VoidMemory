@@ -1,6 +1,6 @@
 
-*.sh linguist-language=Text
-*.ico linguist-language=Text
 *.md linguist-language=Text
-*.json linguist-language=Text
+*.txt linguist-language=Text
+*.txt linguist-language=Text
+
 
