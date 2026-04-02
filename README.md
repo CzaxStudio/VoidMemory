@@ -85,7 +85,6 @@ Select a running process (e.g., a game).
 ## Important Notes
 
 * Must be run as **Administrator**
-* Works best with **offline / single-player games**
 * Antivirus software may flag this tool due to memory access behavior
 
 ---
