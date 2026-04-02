@@ -145,13 +145,6 @@ Unlike traditional tools, VoidMemory focuses on:
 
 ---
 
-##  Disclaimer
-
-This project is intended for **educational purposes only**.
-Do not use this tool in online or multiplayer games.
-
----
-
 ##  Author
 
 **CzaxStudio**
