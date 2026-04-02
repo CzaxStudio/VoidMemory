@@ -5,7 +5,9 @@ It provides an intuitive CLI experience for scanning, modifying, and freezing in
 
 ---
 
-<img width="1536" height="1024" alt="VoidMemory" src="https://github.com/user-attachments/assets/7617ba76-570b-44e1-afcb-5b9e895adc54">                                                                 
+<img width="1536" height="1024" alt="VoidMemory" src="https://github.com/user-attachments/assets/7617ba76-570b-44e1-afcb-5b9e895adc54">  
+
+
 ## Features
 
 ### Memory Scanning
