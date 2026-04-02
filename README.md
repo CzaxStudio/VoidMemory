@@ -110,7 +110,7 @@ Select a running process (e.g., a game).
 dotnet build -c Release
 ```
 
-### 🚀 Release (Portable EXE)
+### Release (Portable EXE)
 
 ```bash
 dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true /p:PublishTrimmed=true
