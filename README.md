@@ -69,6 +69,8 @@ Select a running process (e.g., a game).
 
 ---
 
+
+
 #### Auto Scan (Recommended)
 
 1. Select **Auto Scan (Health)**
@@ -167,6 +169,8 @@ If you like this project:
 * Pointer scanning
 * GUI version (WinForms / WPF)
 * Advanced memory analysis
+
+### 4. USE For ETHICAL PURPOSE ONLY!
 
 ---
 
