@@ -1,4 +1,6 @@
 *.txt linguist-detectable=true
 *.txt linguist-language=Text
+*.md linguist-detectable=true
+*.md linguist-language=Hacker
 
 
